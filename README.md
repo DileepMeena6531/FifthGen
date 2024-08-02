@@ -1,6 +1,7 @@
 <h2>install dependencies</h2>
 <p>npm i init -y</p>
 <p>npm i express</p>
+<p>npm i ejs</p>
 <p>npm i net</p>
 <p>npm i jest</p>
 <p>supertest</p>
